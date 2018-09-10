@@ -1,0 +1,2 @@
+require_relative 'deprecation_tracker/version'
+require_relative 'deprecation_tracker/deprecation_tracker'
